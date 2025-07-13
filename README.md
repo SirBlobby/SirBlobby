@@ -1,4 +1,4 @@
-### Hoi! I am Sir Blob (aka GamerBoss101) 👋
+### Hoi! I am Sir Blob 👋
 
 I love making things. My passion is using Computer Science with practical Engineering to enhance technology for the future. Therefore, I do fun side quests like: Robotics, Game Jams, and Hackathons. I like to play video games like Minecraft and Pokémon TCG.
 <!-- A project I am working on right now is [TGS](https://dev.sirblob.me/games/tgs). -->
