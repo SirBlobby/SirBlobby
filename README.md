@@ -3,10 +3,6 @@
 I love making things. My passion is using Computer Science with practical Engineering to enhance technology for the future. Therefore, I do fun side quests like: Robotics, Game Jams, and Hackathons. I like to play video games like Minecraft and Pokémon TCG.
 <!-- A project I am working on right now is [TGS](https://dev.sirblob.me/games/tgs). -->
 
-<a align="center" href="https://discord.com/users/654765210866810880">
-    <img src="https://lanyard.cnrad.dev/api/654765210866810880?theme=dark&idleMessage=Just%20Chilling!&bg=000000&showDisplayName=true" />
-</a>
-
 ## Languages
 ![My Languages](https://skillicons.dev/icons?i=c,cpp,cs,java,python,nodejs,js,ts,html,css)
 ## Tech Stack
