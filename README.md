@@ -36,10 +36,10 @@ I’m interested in **Open Source**, **Game Development**, **Robotics**, **Embed
 
 <div align="center">
   <a href="https://github.com/SirBlobby">
-    <img src="https://github-readme-stats.vercel.app/api?username=SirBlobby&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="150" alt="stats" />
+    <img src="https://github-stats-extended.vercel.app/api?username=SirBlobby&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="150" alt="stats" />
   </a>
   <a href="https://github.com/SirBlobby">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SirBlobby&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="150" alt="languages" />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=SirBlobby&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="150" alt="languages" />
   </a>
 </div>
 
