@@ -22,7 +22,7 @@ I’m interested in **Open Source**, **Game Development**, **Robotics**, **Embed
 <div align="center">
 
 ### Languages
-<img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,nodejs,js,ts,html,css&theme=dark" alt="My Languages" />
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,rust,go,java,python,nodejs,js,ts,html,css&theme=dark" alt="My Languages" />
 
 ### Frameworks & Tools
 <img src="https://skillicons.dev/icons?i=arduino,bootstrap,tailwind,discordjs,electron,react,svelte,mongodb,godot,blender,git,docker,linux&theme=dark" alt="Frameworks" />
